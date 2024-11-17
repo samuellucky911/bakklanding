@@ -1,0 +1,21 @@
+{
+  "short_name": "BarclaysUK",
+  "name": "Barclays UK",
+  "icons": [
+    {
+      "src": "/content/dam/icons/favicons/barclays/apple-touch-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.barclays.android.barclaysmobilebanking"
+    }
+  ]
+}
